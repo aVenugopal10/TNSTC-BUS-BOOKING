@@ -1,0 +1,15 @@
+.Nav ul li:hover {
+  color: #007bff;}
+
+   .bus-io:hover {
+    color:#007bff;
+    cursor: pointer;
+    ;
+  }
+  ::placeholder{
+    align-items: center,"10px";
+    padding-left: 30px;
+    opacity: 5;
+  color: #777;
+  }
+  
