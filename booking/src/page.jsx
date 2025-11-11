@@ -388,6 +388,7 @@ const handleLoginSuccess = (email) => {
           >
             Top Destinations
           </h2>
+          <button>Add</button>
 
           <div
             className="destini"
